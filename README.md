@@ -64,4 +64,4 @@ I currently work with the wonderful folks at CareerLabs, bringing magic to Educa
 
 
 * Created Visualizations for Profit and Losses, along with sub-categories of products.
-![](images/Dashboard%201%20(2).png)
+![](images/Dashboard%201%20(1).png)
