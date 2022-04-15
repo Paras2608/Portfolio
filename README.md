@@ -32,3 +32,9 @@ Analytics Portfolio
 * Created Visulizations for Profit by markets and revenue by markets, including profits gained over quarters.
 
 ![](https://github.com/Paras2608/Portfolio/blob/main/images/Dashboard%201%20(2).png)
+
+# ***[Project 4: Survey Analysis Project on Product Choices](https://colab.research.google.com/drive/1aJQ1IIhjQ2cigaFVSv2TYJoycLilEPsY?usp=sharing)***
+* Created a Survey form to know details on people across India and their preference of products from catgeories such as Home Appliances, Electronics, Clothes etc.
+* Cleaned and standardized the Data to be free from any biases or errors.
+* Created Visualizations of the geographical locations and preference in product categories.
+* Created a deep learning model to predict the preference of people based on their geographical location.
