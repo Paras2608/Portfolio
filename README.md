@@ -25,7 +25,6 @@ Analytics Portfolio
 *   Tested the best case algorithms on a test dataset.
 
 ![](https://github.com/Paras2608/Portfolio/blob/main/images/Titanic%20Dataset.png)
-
 # ***[Project 3: Sales Insights Project on Tableau](https://public.tableau.com/app/profile/paras.bisht1677/viz/Project1_16236920700230/Dashboard12)***
 * Worked on a company's database that supplies hardware peripherals and analysed the data with various queries using MYSQL Workbench.
 * Created an interactive Dashboard to perform Data Visualization in order to gain clarity about the data.
@@ -38,3 +37,11 @@ Analytics Portfolio
 * Cleaned and standardized the Data to be free from any biases or errors.
 * Created Visualizations of the geographical locations and preference in product categories.
 * Created a deep learning model to predict the preference of people based on their geographical location.
+
+![](https://github.com/Paras2608/Portfolio/blob/main/images/Survey%20Analysis.png)
+
+# ***[Project 5: US Sales Workbook Project on Tableau](https://public.tableau.com/app/profile/paras.bisht1677/viz/USSalesWorkbook/Dashboard1)***
+* Worked on a dataset from a US Megastore and analysed the Data using Tableau.
+* Worked on Visualizations and created an interactive Dashboard to filter based on year or month.
+* Created Visualizations for Profit and Losses, along with sub-categories of products.
+
