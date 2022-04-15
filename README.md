@@ -44,4 +44,4 @@ Analytics Portfolio
 * Worked on a dataset from a US Megastore and analysed the Data using Tableau.
 * Worked on Visualizations and created an interactive Dashboard to filter based on year or month.
 * Created Visualizations for Profit and Losses, along with sub-categories of products.
-
+![](https://github.com/Paras2608/Portfolio/blob/main/images/Dashboard%201%20(2).png)
