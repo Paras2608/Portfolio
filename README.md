@@ -1,5 +1,3 @@
-# Paras Bisht
-
 Hi!
 I'm Paras from Bengaluru, India.
 
