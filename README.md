@@ -31,3 +31,4 @@ Analytics Portfolio
 * Created an interactive Dashboard to perform Data Visualization in order to gain clarity about the data.
 * Created Visulizations for Profit by markets and revenue by markets, including profits gained over quarters.
 
+![](https://github.com/Paras2608/Portfolio/blob/main/images/Dashboard%201%20(2).png)
