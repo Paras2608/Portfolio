@@ -24,3 +24,4 @@ Analytics Portfolio
 
 *   Tested the best case algorithms on a test dataset.
 
+![](https://github.com/Paras2608/Portfolio/blob/main/images/Titanic%20Dataset.png)
