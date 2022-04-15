@@ -11,6 +11,8 @@ Analytics Portfolio
 
 *   Lastly, provided  valuable observations from the dataset.
 
+![](https://github.com/Paras2608/Portfolio/blob/main/images/Spotify%20Dataset.png)
+
 # ***[Project 2: Predictive and Exploratory Data Analysis on a Titanic Dataset from Kaggle](https://jovian.ai/parasbisht126/titanic-data-analysis)***
 
 *   Explored the dataset and analysed the various factors on which the chances of survival are based.
