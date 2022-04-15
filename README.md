@@ -42,7 +42,7 @@ I currently work with the wonderful folks at CareerLabs, bringing magic to Educa
 
 * Created Visulizations for Profit by markets and revenue by markets, including profits gained over quarters.
 
-![](/images/Dashboard%201%20(2).png)
+![](images/Dashboard%201%20(2).png)
 
 ## ***[Project 4: Survey Analysis Project on Product Choices](https://colab.research.google.com/drive/1aJQ1IIhjQ2cigaFVSv2TYJoycLilEPsY?usp=sharing)***
 * Created a Survey form to know details on people across India and their preference of products from catgeories such as Home Appliances, Electronics, Clothes etc.
@@ -64,4 +64,4 @@ I currently work with the wonderful folks at CareerLabs, bringing magic to Educa
 
 
 * Created Visualizations for Profit and Losses, along with sub-categories of products.
-![](/images/Dashboard%201%20(2).png)
+![](images/Dashboard%201%20(2).png)
