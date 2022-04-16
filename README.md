@@ -65,3 +65,5 @@ I currently work with the wonderful folks at CareerLabs, bringing magic to Educa
 ![](images/Dashboard%201%20(1).png)
 
 # **Certifications and Courses**
+## ***Google Data Analytics Certificate***
+![](/images/Coursera%20Certficate.pdf)
