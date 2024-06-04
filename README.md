@@ -1,9 +1,9 @@
 Hi!
-I'm Paras from Bengaluru, India.
+I'm Paras from Nainital, India.
 
 I'm a Data enthusisast who loves to find patterns and trends in Data. I have a Bachelors of Technology degree in Computer Science and a Data Analytics certification from Google.
 
-I currently work with the wonderful folks at CareerLabs, bringing magic to Education.
+I have worked for organizations such as CareerLabs in the education domain, and Blue Yonder which is a Supply Chain Giant.
 
 # **Projects**
 
